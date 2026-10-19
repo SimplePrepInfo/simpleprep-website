@@ -8,7 +8,7 @@ Lokale zweisprachige Vorabwebsite für `simpleprep.de` in Vorbereitung auf die V
 - Supportseiten mit `simpleprep.info@gmail.com`,
 - deutsche und englische Datenschutzerklärung als technisch und inhaltlich geprüfter Veröffentlichungskandidat vom 19. Oktober 2026 einschließlich der festgelegten V1-Zielgruppe ab 18 Jahren,
 - Impressum/Legal Notice als Bestandteil der Vorabwebsite,
-- Nutzungsbedingungen weiterhin als Arbeitsentwurf; die zugehörigen Routen liefern in der Vorabwebsite eine 404-Seite und sind nicht in der öffentlichen Navigation verlinkt,
+- Nutzungsbedingungen weiterhin als Arbeitsentwurf; die zugehörigen Routen werden aus dem statischen Export entfernt und sind nicht in der öffentlichen Navigation verlinkt,
 - responsive Darstellung für Smartphone und Desktop,
 - keine Analyse, keine Marketing-Cookies und kein Kontaktformular.
 
