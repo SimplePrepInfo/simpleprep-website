@@ -1,6 +1,6 @@
 # Simple Prep Website
 
-Lokale zweisprachige Vorabwebsite für `simpleprep.de` in Vorbereitung auf die Veröffentlichung.
+Öffentlich bereitgestellte zweisprachige Vorabwebsite für `simpleprep.de`.
 
 ## Enthalten
 
@@ -28,17 +28,17 @@ pnpm run lint
 pnpm run build:pages
 ```
 
-Der für GitHub Pages geeignete statische Export liegt anschließend im Ordner `out/`. Die vorbereitete GitHub-Actions-Datei veröffentlicht diesen Ordner erst, nachdem das Projekt bewusst in ein GitHub-Repository aufgenommen und GitHub Pages aktiviert wurde.
+Der für GitHub Pages geeignete statische Export liegt anschließend im Ordner `out/`. Bei einer Änderung auf dem Branch `main` baut und veröffentlicht GitHub Actions diesen Export automatisch.
 
-## Vor Veröffentlichung zwingend
+## Vor der App-Veröffentlichung zwingend
 
-1. Vor Veröffentlichung erneut prüfen, ob inzwischen eine Registereintragung, Umsatzsteuer-ID oder Wirtschafts-ID vorliegt; nur dann die entsprechende Angabe ins Impressum aufnehmen.
-2. Den vorbereiteten statischen GitHub-Pages-Export und die ausgelieferte Seite auf Cookies, Speicherzugriffe und externe Verbindungen prüfen.
+1. Erneut prüfen, ob inzwischen eine Registereintragung, Umsatzsteuer-ID oder Wirtschafts-ID vorliegt; nur dann die entsprechende Angabe ins Impressum aufnehmen.
+2. Nach inhaltlichen oder technischen Änderungen den statischen Export und die ausgelieferte Seite erneut auf Cookies, Speicherzugriffe und externe Verbindungen prüfen.
 3. Finalen App-Build und alle SDK-Datenflüsse erneut prüfen und mit der Datenschutzerklärung abgleichen.
 4. Nutzungsbedingungen vor dem App-Release fertigstellen und erst anschließend in der öffentlichen Navigation verlinken. Die Datenschutzerklärung wurde ohne externe juristische Prüfung erstellt; die Entscheidung über eine zusätzliche fachliche Prüfung liegt beim Betreiber.
-5. Google-UMP-Nachricht und Anbieter-/Partnerliste mit der später öffentlich erreichbaren Datenschutz-URL konfigurieren.
-6. Erst danach GitHub Pages und DNS für `simpleprep.de` verbinden und die öffentliche Seite erneut technisch prüfen.
+5. Google-UMP-Nachricht und Anbieter-/Partnerliste mit der öffentlich erreichbaren Datenschutz-URL konfigurieren.
+6. Nach Bereitstellung des GitHub-Zertifikats HTTPS erzwingen und die öffentliche Domain abschließend technisch prüfen.
 
-Geplantes Hosting: GitHub Pages mit öffentlichem Repository und eigener STRATO-Domain.
+Hosting: GitHub Pages mit öffentlichem Repository und eigener STRATO-Domain.
 
-Prüfstand Datenschutz: 19. Oktober 2026. Noch nicht veröffentlicht.
+Prüfstand Datenschutz und Veröffentlichung der Vorabwebsite: 19. Oktober 2026.
