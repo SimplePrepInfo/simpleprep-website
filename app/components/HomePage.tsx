@@ -8,7 +8,7 @@ type Language = 'de' | 'en';
 const content = {
   de: {
     heroEyebrow: 'Vorratsplanung, die sich nach Alltag anfühlt',
-    heroTitle: 'Vorräte einfach im Blick',
+    heroTitle: 'Simple Prep: Vorräte einfach im Blick',
     heroText: 'Plane für deinen Haushalt, behalte Mengen und Mindesthaltbarkeitsdaten im Blick und baue fehlende Vorräte in deinem Tempo auf.',
     primary: 'Funktionen ansehen',
     secondary: 'Frage stellen',
@@ -172,9 +172,48 @@ function FeatureVisual({ index, language }: { index: number; language: Language 
 export function HomePage({ language }: { language: Language }) {
   const copy = content[language];
   const de = language === 'de';
+  const structuredData = {
+    '@context': 'https://schema.org',
+    '@graph': [
+      {
+        '@type': 'WebSite',
+        '@id': 'https://simpleprep.de/#website',
+        url: 'https://simpleprep.de/',
+        name: 'Simple Prep',
+        alternateName: de ? 'Simple Prep Vorrats-App' : 'Simple Prep supply app',
+        inLanguage: ['de', 'en'],
+      },
+      {
+        '@type': 'Brand',
+        '@id': 'https://simpleprep.de/#brand',
+        name: 'Simple Prep',
+        url: 'https://simpleprep.de/',
+        logo: 'https://simpleprep.de/brand/simple-prep-crest.png',
+      },
+      {
+        '@type': 'SoftwareApplication',
+        '@id': 'https://simpleprep.de/#app',
+        name: 'Simple Prep',
+        url: de ? 'https://simpleprep.de/' : 'https://simpleprep.de/en/',
+        description: de
+          ? 'Vorrats-App für Haushalt und Vorsorge: Vorräte planen, Mindesthaltbarkeitsdaten überwachen, Reichweiten berechnen und Einkäufe organisieren.'
+          : 'A household supply app for planning stock, tracking best-before dates, calculating coverage and organizing shopping.',
+        applicationCategory: 'LifestyleApplication',
+        operatingSystem: 'Android, iOS',
+        isAccessibleForFree: true,
+        inLanguage: ['de', 'en'],
+        image: 'https://simpleprep.de/brand/feature-graphic.png',
+        brand: { '@id': 'https://simpleprep.de/#brand' },
+      },
+    ],
+  };
 
   return (
     <main>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
+      />
       <LanguageSetter language={language} />
       <SiteHeader language={language} />
       <section className="hero">
