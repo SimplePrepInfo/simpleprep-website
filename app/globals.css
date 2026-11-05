@@ -438,6 +438,7 @@ footer p { color: rgba(255, 255, 255, 0.72); margin-bottom: 0; text-align: cente
 
 .site-header-compact { border-bottom: 0; }
 .document-page {
+  overflow-wrap: anywhere;
   animation: document-page-enter 420ms cubic-bezier(0.22, 1, 0.36, 1) both;
   margin: 0 auto;
   max-width: 920px;
