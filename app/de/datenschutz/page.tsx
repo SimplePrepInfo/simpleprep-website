@@ -9,7 +9,7 @@ export default function PrivacyPage() {
     <DocumentPage
       language="de"
       kicker="Transparenz"
-      title="Datenschutzerklärung"
+      title="Daten&shy;schutz&shy;erklärung"
       intro="Hier erfährst du, welche Daten bei der Nutzung der Simple-Prep-Website und der Simple-Prep-App verarbeitet werden."
     >
       <section>
@@ -47,7 +47,7 @@ export default function PrivacyPage() {
       <section>
         <h2>4. Kontakt per E-Mail und Telefon</h2>
         <p>Wenn du uns per E-Mail kontaktierst, verarbeiten wir deine E-Mail-Adresse, den Inhalt deiner Nachricht, technische Metadaten der E-Mail und alle freiwillig übermittelten Angaben, um dein Anliegen zu bearbeiten. Je nach Inhalt beruht dies auf Art. 6 Abs. 1 lit. b DSGVO zur Durchführung vorvertraglicher oder vertraglicher Maßnahmen oder auf Art. 6 Abs. 1 lit. f DSGVO. Unser berechtigtes Interesse ist die Bearbeitung von Fragen, Fehlermeldungen und Feedback. Gesetzliche Aufbewahrungspflichten können zusätzlich auf Art. 6 Abs. 1 lit. c DSGVO beruhen.</p>
-        <p>Die Kontaktadresse wird über einen Dienst von Google bereitgestellt. Google kann dabei technische Metadaten und den Inhalt der Kommunikation verarbeiten. Bitte sende keine sensiblen Vorrats-, Gesundheits-, Zahlungs- oder Kontodaten, wenn sie für dein Anliegen nicht erforderlich sind.</p>
+        <p>Für die Kontaktadresse verwenden wir derzeit Gmail von Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland. Google verarbeitet dabei Kommunikationsinhalte und technische Metadaten nach seiner eigenen Datenschutzerklärung; es handelt sich nicht um ein Google-Workspace-Postfach. Bitte sende keine sensiblen Vorrats-, Gesundheits-, Zahlungs- oder Kontodaten, wenn sie für dein Anliegen nicht erforderlich sind.</p>
         <p>Soweit wir deine Anfrage zur Ausübung von Datenschutzrechten bearbeiten, beruht die dafür erforderliche Verarbeitung auf Art. 6 Abs. 1 lit. c DSGVO in Verbindung mit unseren Pflichten insbesondere aus Art. 12 bis 22 DSGVO.</p>
         <p>Wenn du uns telefonisch kontaktierst oder eine Mailboxnachricht hinterlässt, verarbeiten wir insbesondere deine Telefonnummer, Zeitpunkt und Dauer des Kontakts sowie die von dir mitgeteilten Angaben. Eine Gesprächsaufzeichnung findet nicht statt. Die Verarbeitung dient der Bearbeitung deines Anliegens und beruht je nach Inhalt auf Art. 6 Abs. 1 lit. b oder lit. f DSGVO. Der eingesetzte Telekommunikationsanbieter kann Verbindungs- und Mailboxdaten in eigener Verantwortung verarbeiten.</p>
         <p><a href="https://policies.google.com/privacy?hl=de" rel="noreferrer">Datenschutzerklärung von Google</a></p>
@@ -69,10 +69,14 @@ export default function PrivacyPage() {
 
       <section>
         <h2>6. Kamera, Fotos und Nährwert-Texterkennung</h2>
-        <p>Die Kamera oder Fotoauswahl wird nur geöffnet, wenn du die Nährwert-Texterkennung aktiv startest und die entsprechende Betriebssystemberechtigung erteilst. Ein mit der Kamera neu aufgenommenes Bild wird als temporäre Datei verarbeitet. Beim Abschluss des Erkennungsvorgangs, auch bei einem Erkennungsfehler, schließt die App die Texterkennung und versucht anschließend unmittelbar, diese Datei zu löschen. Verhindert das Betriebssystem die Löschung oder wird die App vorher beendet, kann eine temporäre Datei verbleiben; eine sichere vollständige Löschung aller systemseitigen Kopien wird nicht zugesagt. Ein von dir aus der Fotomediathek ausgewähltes Original wird nicht verändert oder gelöscht. Das Bild wird nicht als Bestandteil deines Vorrats gespeichert.</p>
+        <p>Die Kamera oder Fotoauswahl wird nur geöffnet, wenn du die Nährwert-Texterkennung aktiv startest. Soweit das Betriebssystem für den gewählten Weg eine Berechtigung verlangt, musst du diese zuvor erteilen. Eine geschützte Systemauswahl kann auch ohne allgemeinen Zugriff auf deine Fotomediathek funktionieren. Ein mit der Kamera neu aufgenommenes Bild wird als temporäre Datei verarbeitet. Beim Abschluss des Erkennungsvorgangs, auch bei einem Erkennungsfehler, schließt die App die Texterkennung und versucht anschließend unmittelbar, diese Datei zu löschen. Verhindert das Betriebssystem die Löschung oder wird die App vorher beendet, kann eine temporäre Datei verbleiben; eine sichere vollständige Löschung aller systemseitigen Kopien wird nicht zugesagt. Ein von dir aus der Fotomediathek ausgewähltes Original wird nicht verändert oder gelöscht. Das Bild wird nicht als Bestandteil deines Vorrats gespeichert.</p>
         <p>Für die Texterkennung wird Google ML Kit verwendet. Nach den Herstellerangaben werden Eingabebilder, erkannte Texte und Ergebnisse vollständig auf dem Gerät verarbeitet und nicht an Google-Server übermittelt. ML Kit kann Google-Server jedoch für Fehlerbehebungen, Modellaktualisierungen und Informationen zur Hardware-Kompatibilität kontaktieren. Außerdem werden technische Nutzungs- und Leistungsmetriken verarbeitet, zum Beispiel Geräte- und App-Informationen, Installationskennungen, API-Konfiguration, Ereignistypen, Ein- und Ausgabegrößen sowie Fehlercodes. Google verwendet diese Daten nach eigenen Angaben zur Leistungsmessung, Fehlerbehebung, Wartung, Verbesserung sowie Missbrauchserkennung.</p>
+        <p>Mit Ein- und Ausgabegrößen sind technische Größenangaben gemeint, nicht der Inhalt deines Bildes oder des erkannten Textes. Bei Netzwerkverbindungen wird außerdem die für die Verbindung erforderliche IP-Adresse an den angesprochenen Server übermittelt. Die Texterkennung und ihre technischen SDK-Metriken sind von der Werbeeinwilligung getrennt: Eine Ablehnung oder ein Widerruf im Werbedialog schaltet diese Metriken bei Nutzung der Texterkennung nicht ab.</p>
         <p>Die Bereitstellung der von dir gestarteten Texterkennung erfolgt, soweit sie unserer Verantwortung unterliegt, auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO. Die Einbindung des Dienstes und die damit verbundenen technisch erforderlichen Diagnose- und Kompatibilitätsvorgänge stützen wir auf Art. 6 Abs. 1 lit. f DSGVO. Unser berechtigtes Interesse liegt in einer zuverlässigen, sicheren und mit unterschiedlichen Geräten kompatiblen Texterkennung. Google kann technische Daten für eigene Zwecke in eigener datenschutzrechtlicher Verantwortung verarbeiten.</p>
-        <p><a href="https://developers.google.com/ml-kit/terms" rel="noreferrer">Google ML Kit – Terms &amp; Privacy</a></p>
+        <ul>
+          <li><a href="https://developers.google.com/ml-kit/terms" rel="noreferrer">Google ML Kit – Terms &amp; Privacy</a></li>
+          <li><a href="https://developers.google.com/ml-kit/ios-data-disclosure" rel="noreferrer">Google ML Kit – technische Datenerhebung auf iOS</a></li>
+        </ul>
       </section>
 
       <section>
@@ -90,6 +94,7 @@ export default function PrivacyPage() {
         <p>Auf iOS fordert Simple Prep ausschließlich nicht personalisierte Anzeigen an. Das gilt auch dann, wenn du im Google-Dialog einer weitergehenden Werbeverarbeitung zustimmst. Auf Android hängt der mögliche Anzeigenmodus – personalisierte, nicht personalisierte oder eingeschränkte Werbung – weiterhin von Region, Verfügbarkeit, deiner Datenschutzwahl und den Einstellungen der beteiligten Anbieter ab. Auch auf iOS können je nach Auswahl und Verfügbarkeit eingeschränkte oder vorübergehend keine Anzeigen erscheinen.</p>
         <p>Die lokalen Kernfunktionen der App bleiben auch nutzbar, wenn du eine Einwilligung ablehnst, UMP keine Anzeigenanfragen erlaubt oder der Datenschutzstatus vorübergehend nicht abgerufen werden kann. Solange UMP keine Anzeigenanfragen erlaubt, fordert Simple Prep keine Werbung an. Eine Ablehnung bedeutet nicht automatisch, dass keine technischen Daten mehr an Google übermittelt werden.</p>
         <p>Google Mobile Ads, UMP und die im Dialog genannten Partner können je nach Auswahl insbesondere IP-Adresse und daraus abgeleiteten ungefähren Standort, Geräte- und App-Informationen, Werbe- oder andere Gerätekennungen, Einwilligungsdaten, App- und Werbeinteraktionen, angezeigte Werbung sowie Absturz-, Leistungs- und weitere Diagnosedaten verarbeiten. Dies dient insbesondere der Werbeauslieferung, Reichweiten- und Erfolgsmessung, Häufigkeitsbegrenzung, Analyse, Sicherheit und Betrugsprävention.</p>
+        <p>Die aktuelle App fordert keinen Standortzugriff des Betriebssystems an. Die Ableitung einer ungefähren Region aus der IP-Adresse ist davon unabhängig und kann auch ohne Standortberechtigung stattfinden.</p>
         <p>Personalisierte Werbung auf Android und nicht unbedingt erforderliche Speicherungen oder Zugriffe auf deinem Endgerät erfolgen nur, soweit eine wirksame Einwilligung nach Art. 6 Abs. 1 lit. a DSGVO und § 25 Abs. 1 TDDDG vorliegt. Nicht personalisierte Anzeigen werden nicht anhand deines bisherigen Verhaltens für eine interessenbezogene Ansprache ausgewählt. Dabei können dennoch technische Daten und Kennungen etwa zur Häufigkeitsbegrenzung, Messung und Betrugsprävention verarbeitet werden. Nicht personalisierte Werbung bedeutet daher weder, dass keine Kennungen verarbeitet werden, noch, dass keine Einwilligung erforderlich ist.</p>
         <p>Für erforderliche Vorgänge der grundlegenden Anzeigenauslieferung, Sicherheit und Betrugsprävention in unserem Verantwortungsbereich stützen wir uns nur insoweit auf Art. 6 Abs. 1 lit. f DSGVO, als dafür keine Einwilligung erforderlich ist und unsere Interessen nicht durch deine schutzwürdigen Interessen überwogen werden. Unser Interesse ist die sichere, gegen Missbrauch geschützte Finanzierung der kostenlosen App. Einwilligungsbedürftige Verarbeitungen und Endgerätezugriffe werden dadurch nicht erlaubt; für Zugriffe gilt § 25 TDDDG.</p>
         <p>Google und einzelne Partner können für im Dialog bezeichnete Sicherheits-, Betrugspräventions-, Mess- oder technische Zwecke eigene berechtigte Interessen geltend machen. Die tatsächlich verwendeten Zwecke und Rechtsgrundlagen sowie Möglichkeiten zum Widerspruch werden im UMP-Dialog angezeigt. Deine Auswahl wird für die weitere Anzeigenauslieferung berücksichtigt.</p>
@@ -144,6 +149,7 @@ export default function PrivacyPage() {
           <li>Website-Serverprotokolle: GitHub veröffentlicht für GitHub-Pages-IP-Protokolle keine einheitliche feste Frist. Laut GitHub richtet sich die Dauer nach Verarbeitungszweck sowie vertraglichen und gesetzlichen Pflichten.</li>
           <li>Werbe-, Einwilligungs- und ML-Kit-Metrikdaten: nach der jeweiligen Datenschutzwahl sowie den Speicher- und Löschregeln von Google und den im UMP-Dialog genannten Anbietern. Diese Anbieter legen die Dauer ihrer eigenständigen Verarbeitung fest; wir haben auf ihre Speicherdauer keinen unmittelbaren Zugriff. Informationen und Löschmöglichkeiten findest du im UMP-Dialog und in den in dieser Erklärung verlinkten Anbieterinformationen.</li>
         </ul>
+        <p>Google erläutert die Kriterien seiner Speicherung und Löschung in den <a href="https://policies.google.com/technologies/retention?hl=de" rel="noreferrer">Informationen zur Datenspeicherung</a>. Dort genannte Beispiele sind keine einheitlichen Löschfristen für sämtliche in Simple Prep eingesetzten SDKs oder Werbepartner.</p>
       </section>
 
       <section>
@@ -169,7 +175,7 @@ export default function PrivacyPage() {
 
       <section>
         <h2>15. Stand und Änderungen</h2>
-        <p>Stand dieser Datenschutzerklärung: 5. November 2026.</p>
+        <p>Stand dieser Datenschutzerklärung: 12. November 2026.</p>
         <p>Wir passen diese Datenschutzerklärung an, wenn sich Funktionen, Anbieter, Rechtslage oder der technische Aufbau von Simple Prep ändern. Die jeweils aktuelle Fassung ist unter dieser Adresse abrufbar.</p>
       </section>
       <p className="document-back"><Link href="/">← Zur Startseite</Link></p>
