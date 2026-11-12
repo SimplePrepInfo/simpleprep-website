@@ -4,6 +4,9 @@ import './globals.css';
 export const metadata: Metadata = {
   metadataBase: new URL('https://simpleprep.de'),
   applicationName: 'Simple Prep',
+  icons: {
+    icon: [{ url: '/icon.png', type: 'image/png', sizes: '512x512' }],
+  },
   title: {
     default: 'Simple Prep -Vorrats-App für Haushalt und Vorsorge',
     template: '%s | Simple Prep',

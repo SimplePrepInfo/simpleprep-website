@@ -29,6 +29,10 @@ export default function ImprintPage() {
         <p>Telefonische Erreichbarkeit: montags von 18:00 bis 19:00 Uhr. Außerhalb dieser Zeit kann eine Nachricht hinterlassen werden. Wir melden uns zeitnah zurück.</p>
       </section>
       <section>
+        <h2>Umsatzsteuer-ID</h2>
+        <p>Umsatzsteuer-Identifikationsnummer: DE466119647</p>
+      </section>
+      <section>
         <h2>Verbraucherstreitbeilegung</h2>
         <p>Der Anbieter ist weder verpflichtet noch bereit, an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.</p>
       </section>

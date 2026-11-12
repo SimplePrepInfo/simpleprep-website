@@ -29,6 +29,10 @@ export default function LegalNoticePage() {
         <p>Telephone availability: Mondays from 18:00 to 19:00 German local time. Outside these hours, you may leave a message and we will return your call promptly.</p>
       </section>
       <section>
+        <h2>VAT identification number</h2>
+        <p>VAT identification number: DE466119647</p>
+      </section>
+      <section>
         <h2>Consumer dispute resolution</h2>
         <p>The provider is neither obliged nor willing to participate in dispute resolution proceedings before a consumer arbitration body.</p>
       </section>

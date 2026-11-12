@@ -32,7 +32,7 @@ Der für GitHub Pages geeignete statische Export liegt anschließend im Ordner `
 
 ## Vor der App-Veröffentlichung zwingend
 
-1. Die inzwischen laut Betreiber zugeteilte Umsatzsteuer-ID in beide Impressumsfassungen aufnehmen, sobald der konkrete Wert vorliegt. Keine Nummer erfinden; etwaige weitere Register-/ID-Pflichten separat prüfen.
+1. Die am 12. November vom Betreiber mitgeteilte Umsatzsteuer-ID ist in beiden Impressumsfassungen enthalten. Keine amtliche Gültigkeits- oder Inhaberprüfung behauptet; etwaige weitere Register-/ID-Pflichten separat prüfen.
 2. Nach inhaltlichen oder technischen Änderungen den statischen Export und die ausgelieferte Seite erneut auf Cookies, Speicherzugriffe und externe Verbindungen prüfen.
 3. Bei Änderungen an App oder SDKs den finalen Build und die dadurch betroffenen Datenflüsse erneut mit der Datenschutzerklärung abgleichen. Der Textabgleich für den derzeitigen iOS-Build 3 ist am 12. November dokumentiert; aus einem Textabgleich folgt kein neuer Netzwerkmessnachweis.
 4. Für iOS ist zuletzt Apples Standard-EULA hinterlegt. Bewusst festlegen, ob dieser zusammen mit erforderlichen ergänzenden Informationen beibehalten oder durch fachlich geprüfte eigene Bedingungen ersetzt werden soll. Eigene Arbeitsentwürfe nicht ungeprüft verlinken. Die Datenschutzerklärung ersetzt keine fachliche Prüfung von Rechtsgrundlagen, Verbraucherpflichten und Zielländern.
@@ -40,6 +40,12 @@ Der für GitHub Pages geeignete statische Export liegt anschließend im Ordner `
 6. HTTPS ist laut lesender GitHub-Pages-Prüfung vom 5. November erzwungen. Die öffentliche Domain nach jedem Deployment auf den tatsächlich ausgelieferten Stand prüfen.
 
 Hosting: GitHub Pages mit öffentlichem Repository und eigener STRATO-Domain.
+
+## Suchsymbol und Produktvorschauen, 12. November 2026
+
+Das PNG-Suchsymbol unter der stabilen Adresse `/icon.png` wird aus dem unveränderten vorhandenen Wappen auf einem grünen Quadrat erzeugt. Der Rand lässt das ganze Wappen auch bei kreisförmigem Zuschnitt sichtbar. Das ursprüngliche App-Icon bleibt unter `public/brand/app-icon.png` erhalten; App und Store-Icon werden nicht verändert. Googles tatsächliche Suchanzeige hängt vom erneuten Abruf und der Verarbeitung durch Google ab und wird nicht als sofort aktualisiert behauptet.
+
+Die für die Website verwendeten DE-/EN-Produktvorschauen unter `public/screens/supplies-preview-*.png` sind bildbearbeitete Fassungen der vorhandenen Screenshots: Vorratsnamen bleiben als ganze Wörter lesbar; die englischen Artikelnamen und Verpackungstexte sind übersetzt. Die unveränderten Ausgangsbilder unter `public/screens/supplies-crop-*.png` bleiben erhalten. Diese Vorschauen sind keine neuen Geräteaufnahmen oder Änderungen an der App.
 
 Historischer Veröffentlichungsnachweis vom 5. November 2026; zuvor öffentlich: 19. Oktober 2026. Pages-Produktionsbuild einschließlich TypeScript und Exportprüfung erfolgreich; beide Sprachfassungen damals bei 319 Pixeln ohne horizontale Überbreite geprüft. Lange Wörter und Links in Dokumentseiten können umbrechen. Keine neuen externen Ressourcen oder Speicherzugriffe ergänzt; eigene AGB-Entwürfe bleiben aus dem Export entfernt.
 

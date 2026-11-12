@@ -233,7 +233,7 @@ export function HomePage({ language }: { language: Language }) {
             <div className="phone-screen-single" role="img" aria-label={copy.imageAlt}>
               <Image
                 className="single-shot"
-                src={de ? '/screens/supplies-crop-de.png' : '/screens/supplies-crop-en.png'}
+                src={de ? '/screens/supplies-preview-de.png' : '/screens/supplies-preview-en.png'}
                 alt=""
                 width={410}
                 height={820}
