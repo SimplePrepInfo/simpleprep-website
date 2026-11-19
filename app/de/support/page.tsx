@@ -15,7 +15,7 @@ export default function SupportPage() {
       <section>
         <h2>Kontakt</h2>
         <p>Am einfachsten erreichst du uns per E-Mail:</p>
-        <a className="button button-primary inline-button" href="mailto:simpleprep.info@gmail.com">simpleprep.info@gmail.com</a>
+        <a className="button button-primary inline-button" href="mailto:support@simpleprep.de">support@simpleprep.de</a>
       </section>
       <section>
         <h2>Damit wir schneller helfen können</h2>

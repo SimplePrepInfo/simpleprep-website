@@ -5,8 +5,8 @@
 ## Enthalten
 
 - deutsche und englische Startseite,
-- Supportseiten mit `simpleprep.info@gmail.com`,
-- deutsche und englische Datenschutzerklärung vom 12. November 2026 mit iOS-NPA, Backup-Grenzen, Betroffenenrechten, Anbieterrollen und Erläuterung der Partnergruppen; aktueller Inhalt mit App-Code und Herstellerquellen abgeglichen,
+- Supportseiten mit `support@simpleprep.de` (STRATO-Postfach),
+- deutsche und englische Datenschutzerklärung vom 19. November 2026 mit iOS-NPA, Backup-Grenzen, Betroffenenrechten, Anbieterrollen und Erläuterung der Partnergruppen; aktueller Inhalt mit App-Code und Herstellerquellen abgeglichen,
 - Impressum/Legal Notice als Bestandteil der Vorabwebsite,
 - Nutzungsbedingungen weiterhin als Arbeitsentwurf; die zugehörigen Routen werden aus dem statischen Export entfernt und sind nicht in der öffentlichen Navigation verlinkt,
 - responsive Darstellung für Smartphone und Desktop,
@@ -51,7 +51,7 @@ Historischer Veröffentlichungsnachweis vom 5. November 2026; zuvor öffentlich:
 
 Die anschließende Prüfung einer vom Betreiber eingebrachten KI-Rückmeldung ergänzt am selben Tag die Zwecke und Grundlagen der Einwilligungsverwaltung, den konkreten Einstellungs-/Widerrufsweg, Googles EWR-/UK-/Schweiz-Regeln, die Bearbeitung von Datenschutzanfragen und die freie Wahl der zuständigen Beschwerdebehörde. Lokale sensible Freitextinhalte und tatsächliche Grenzen der Kamerabild-Löschung werden präzisiert. Keine Kauf-/Abo-Funktion vorhanden; überholte Ernährungsoptionen aus der Funktionsaufzählung entfernt. Die Anbieterrollenpassage verweist vereinfacht auf die Quellen und schließt eigene Verantwortung ausdrücklich nicht aus.
 
-Der Betreiber bestätigt für den Support bislang ausschließlich Gmail. Für private Gmail-Dienste stellt Google nach eigener Auskunft keinen AV-Vertrag bereit. Ein für den tatsächlichen geschäftlichen Betrieb passendes Postfach samt geklärtem Vertrags-/Schutzumfang bleibt daher offen; eine Domain-Adresse oder ein EU-Standort allein sind kein ausreichender Nachweis. Kein Postfach oder Vertrag durch diese Textänderung angelegt.
+Historischer Stand vom 5.–12. November: Der Betreiber bestätigte für den Support ausschließlich Gmail. Für private Gmail-Dienste stellt Google nach eigener Auskunft keinen AV-Vertrag bereit. Ein für den tatsächlichen geschäftlichen Betrieb passendes Postfach samt geklärtem Vertrags-/Schutzumfang bleibt daher offen; eine Domain-Adresse oder ein EU-Standort allein sind kein ausreichender Nachweis. Kein Postfach oder Vertrag durch diese Textänderung angelegt.
 
 Die tatsächlich anwendbaren Anbietervereinbarungen und Apples ausdrückliche Anforderung an gleichwertigen Drittanbieter-Schutz bleiben vor der abschließenden App-Freigabe zu belegen; die quellengestützte Erläuterung öffentlicher Google-Bedingungen schließt diesen Punkt nicht ab. App-Backuphinweis und Lizenzzugang wurden im App-Projekt bereits in Build 2 umgesetzt und auf dem iPhone bestätigt. Store-Compliance und Android-Restprüfungen bleiben getrennte Arbeiten. Die Website-Veröffentlichung ist keine App-Store-Einreichung oder umfassende Rechtsfreigabe.
 
@@ -60,3 +60,16 @@ Die tatsächlich anwendbaren Anbietervereinbarungen und Apples ausdrückliche An
 Beide Sprachfassungen sind für die derzeitige Konfiguration nochmals abgeglichen und auf den 12. November datiert. Gmail ist als tatsächlich genutzter Dienst konkret benannt, ohne einen Workspace-Vertrag zu behaupten. Geschützte Fotoauswahl und erforderliche Betriebssystemberechtigungen werden unterschieden. ML-Kit-Metriken sind von lokal verarbeiteten Bild-/Textinhalten und der separaten Werbeeinwilligung abgegrenzt. Kein angeforderter Standortzugriff bedeutet weiterhin nicht, dass Werbedienste keinen ungefähren Standort aus der IP-Adresse ableiten können. Google-Speicherregeln sind direkt verlinkt, ohne feste SDK-Fristen zu erfinden. Die deutsche Überschrift besitzt passende optionale Worttrennungen.
 
 Produktionsbuild einschließlich TypeScript und statischem Export, ESLint sowie die vollständige Folge der 15 Abschnitte und alle internen Links geprüft. DE-/EN-Vorschau im Browser gelesen und visuell geprüft. Keine neue mobile Bildschirmbreite oder Netzwerkaufzeichnung als aktueller Nachweis behauptet. Website-Code erhält keine neuen externen Ressourcen oder Speicherzugriffe; keine App-Funktionen geändert. App und Store verwenden weiter die bestehenden Datenschutzadressen. Umstellung des Postfachs und anwendbarer Anbieter-Vertragsumfang bleiben getrennte, tatsächlich noch nicht abgeschlossene Betriebsaufgaben. Dafür werden weder neue Verträge noch technische Eigenschaften durch den Text unterstellt. Eine spätere Anbieteränderung erfordert die passende Textanpassung.
+
+
+## Kontakt- und Mailanbieterumstellung, 19. November 2026
+
+Nach dem ausdrücklich bestätigten Auftrag zur Änderung der öffentlichen Kontaktangaben verwenden Support, Impressum/Legal Notice und Datenschutzerklärung DE/EN nun `support@simpleprep.de`. Die nicht veröffentlichten eigenen AGB-Entwürfe erhalten nur die passende Kontaktadresse und bleiben aus dem Export entfernt.
+
+STRATO-Supportalias und individueller AVV-Version-3.6-Mailumfang wurden im App-Projekt am 18.11. geprüft. Empfang und Versand meldet der Betreiber erfolgreich; die sichtbare Absenderadresse seiner Testantwort wurde nicht ausdrücklich bestätigt. Die Veröffentlichung einer erreichbaren Supportadresse wird nicht als unabhängiger Absender-/Zustellbarkeitsnachweis ausgegeben.
+
+Datenschutzabschnitt 4 benennt das STRATO-Postfach als Maildienst und Auftragsverarbeitung. Die tatsächlich verwendete Gmail-App sowie bestehende Gmail-Korrespondenz bleiben transparent berücksichtigt; kein pauschaler Wegfall aller Google-Verarbeitung behauptet. Abschnitt 11 und Versionsdatum passend aktualisiert. App, SDKs, Websitehosting, UMP, Kontozugänge und DNS bleiben unverändert. Die ältere Zoho-Planung ist durch STRATO abgelöst; deren Konto/Antrag wurden nicht gelöscht.
+
+Quellen am 19.11. erneut geprüft: [STRATO Datenschutz](https://www.strato.de/datenschutz/), [STRATO AVV](https://www.strato.de/agb/avv/), [Google Privacy](https://policies.google.com/privacy?hl=de), [Gmail Datenschutz/Sicherheit](https://support.google.com/mail/answer/10434152?hl=de). Die öffentliche STRATO-AVV-Version 3.5 wird nicht mit der individuell geprüften Fassung 3.6 gleichgesetzt. Verbleibende allgemeine Anbieter-/Drittanbieterschutzfragen werden durch diese begrenzte Kontaktumstellung nicht pauschal freigegeben.
+
+Validierung dieser Kontaktumstellung: GitHub-main vor Bearbeitung mit lokalem Stand 82c5eaf abgeglichen, sauberer Ausgangsbaum. Produktionsbuild einschließlich TypeScript und statischem Export erfolgreich; sechs öffentliche Seiten auf neue Mailto-Links geprüft, beide Datenschutzfassungen weiterhin 15 Abschnitte, eigene AGB-Entwürfe aus Export entfernt. Deutsche Supportseite und DE-/EN-Datenschutzabschnitt in lokaler Browservorschau geprüft. Keine neue App-/Netzwerkmessung oder umfassende Rechtsfreigabe behauptet.

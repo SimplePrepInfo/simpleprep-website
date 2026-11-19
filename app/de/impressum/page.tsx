@@ -24,7 +24,7 @@ export default function ImprintPage() {
       </section>
       <section>
         <h2>Kontakt</h2>
-        <p>E-Mail: <a href="mailto:simpleprep.info@gmail.com">simpleprep.info@gmail.com</a></p>
+        <p>E-Mail: <a href="mailto:support@simpleprep.de">support@simpleprep.de</a></p>
         <p>Telefon: <a href="tel:+491601260993">+49 160 1260993</a></p>
         <p>Telefonische Erreichbarkeit: montags von 18:00 bis 19:00 Uhr. Außerhalb dieser Zeit kann eine Nachricht hinterlassen werden. Wir melden uns zeitnah zurück.</p>
       </section>

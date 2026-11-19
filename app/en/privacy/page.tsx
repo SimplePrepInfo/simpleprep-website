@@ -19,7 +19,7 @@ export default function PrivacyPage() {
           Hömicker Weg 1<br />
           51643 Gummersbach<br />
           Germany<br />
-          Email: <a href="mailto:simpleprep.info@gmail.com">simpleprep.info@gmail.com</a><br />
+          Email: <a href="mailto:support@simpleprep.de">support@simpleprep.de</a><br />
           Telephone: <a href="tel:+491601260993">+49 160 1260993</a>
         </address>
         <p>No data protection officer has been appointed. You may send privacy enquiries directly to the email address above.</p>
@@ -47,10 +47,17 @@ export default function PrivacyPage() {
       <section>
         <h2>4. Contact by email and telephone</h2>
         <p>If you contact us by email, we process your email address, the contents of your message, technical email metadata and any information you voluntarily provide in order to handle your request. Depending on the request, the legal basis is Article 6(1)(b) GDPR for pre-contractual or contractual measures or Article 6(1)(f) GDPR. Our legitimate interest is responding to questions, bug reports and feedback. Statutory retention requirements may additionally be based on Article 6(1)(c) GDPR.</p>
-        <p>We currently use Gmail from Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland, for the contact address. Google processes communication contents and technical metadata under its own Privacy Policy; this is not a Google Workspace mailbox. Please do not send sensitive inventory, health, payment or account information unless it is necessary for your request.</p>
+        <p>To receive, send and store messages sent to our support address, we use an email mailbox provided by STRATO GmbH, Otto-Ostrowski-Straße 7, 10249 Berlin, Germany. STRATO processes the communication contents and technical metadata on our behalf as a processor under a data processing agreement pursuant to Article 28 GDPR.</p>
+        <p>We also use the Gmail app provided by Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland, to access and handle messages. The mailbox continues to be hosted by STRATO. Google additionally describes the processing of technical performance and crash data for Gmail; further information is available in the privacy notices linked below. Existing correspondence in our previous Gmail mailbox continues to be handled and retained according to the criteria in section 12.</p>
+        <p>Please do not send sensitive inventory, health, payment or account information unless it is necessary for your request.</p>
         <p>Where we handle a request to exercise your data protection rights, the processing necessary for that purpose is based on Article 6(1)(c) GDPR in conjunction with our obligations, in particular under Articles 12 to 22 GDPR.</p>
         <p>If you contact us by telephone or leave a voicemail message, we process information including your telephone number, the time and duration of the contact and the information you provide. Calls are not recorded. Depending on the request, processing is based on Article 6(1)(b) or Article 6(1)(f) GDPR and is used to handle your enquiry. The telecommunications provider may process connection and voicemail data under its own responsibility.</p>
-        <p><a href="https://policies.google.com/privacy?hl=en" rel="noreferrer">Google Privacy Policy</a></p>
+        <ul>
+          <li><a href="https://www.strato.de/datenschutz/" rel="noreferrer">STRATO – privacy information</a></li>
+          <li><a href="https://www.strato.de/agb/avv/" rel="noreferrer">STRATO – data processing agreement</a></li>
+          <li><a href="https://support.google.com/mail/answer/10434152?hl=en" rel="noreferrer">Google – privacy and security in Gmail</a></li>
+          <li><a href="https://policies.google.com/privacy?hl=en" rel="noreferrer">Google Privacy Policy</a></li>
+        </ul>
       </section>
 
       <section>
@@ -125,7 +132,7 @@ export default function PrivacyPage() {
 
       <section>
         <h2>11. Recipients and international transfers</h2>
-        <p>Depending on the feature used, recipients may include GitHub as hosting provider, Google as provider of email, ML Kit, UMP and Mobile Ads, and share, print or storage providers selected by you. The advertising providers involved and their purposes are additionally displayed in the UMP consent form.</p>
+        <p>Depending on the feature used, recipients may include GitHub as hosting provider, STRATO as provider of our support mailbox, Google as provider of the Gmail app, for existing Gmail correspondence, and as provider of ML Kit, UMP and Mobile Ads, and share, print or storage providers selected by you. The advertising providers involved and their purposes are additionally displayed in the UMP consent form.</p>
         <p>A provider’s data protection role depends on the particular service and actual processing activity. Information about Google’s advertising services is available in the data protection terms and associated service list linked below. These references do not exclude Simple Prep’s responsibility for processing triggered by our integration.</p>
         <p>Apple and Google process their own account, payment, device and usage data under their own responsibility when you access the relevant app store, download the app or manage it. We have no direct control over the scope or duration of that processing.</p>
         <p>Some providers process data outside the European Economic Area. According to GitHub and Google, relevant safeguards may include adequacy decisions under Article 45 GDPR, including the EU–US Data Privacy Framework for certified companies, or the European Commission’s standard contractual clauses under Article 46 GDPR. You can request further information about the safeguards used for a specific transfer and an available copy or reference by emailing the address stated in section 1.</p>
@@ -155,7 +162,7 @@ export default function PrivacyPage() {
       <section>
         <h2>13. Your rights</h2>
         <p>Subject to the statutory requirements, you have rights of access, rectification, erasure, restriction of processing and data portability. You may withdraw consent at any time with future effect. If information exists only locally on your device, we have no technical access to it; you can manage, export or delete it directly in the app.</p>
-        <p>To exercise your rights, an informal message to <a href="mailto:simpleprep.info@gmail.com">simpleprep.info@gmail.com</a> is sufficient. We respond without undue delay and generally no later than one month after receipt. Where necessary because of the complexity or number of requests, the period may be extended by a further two months under the statutory requirements; we will inform you within the first month. Requests are generally handled free of charge. We may ask for additional information necessary to confirm your identity only where we have reasonable doubts about it.</p>
+        <p>To exercise your rights, an informal message to <a href="mailto:support@simpleprep.de">support@simpleprep.de</a> is sufficient. We respond without undue delay and generally no later than one month after receipt. Where necessary because of the complexity or number of requests, the period may be extended by a further two months under the statutory requirements; we will inform you within the first month. Requests are generally handled free of charge. We may ask for additional information necessary to confirm your identity only where we have reasonable doubts about it.</p>
         <p><strong>Right to object:</strong> Where processing is based on Article 6(1)(f) GDPR, you may object to that processing at any time on grounds relating to your particular situation. We will then no longer process the information unless we can demonstrate compelling legitimate grounds or the processing is required for the establishment, exercise or defence of legal claims.</p>
         <p><strong>Objection to direct marketing:</strong> Where personal data is processed for direct-marketing purposes, you may object to that processing, including related profiling, at any time and without giving specific reasons. The data will then no longer be processed for those purposes. To withdraw your advertising consents, follow the “Settings → Privacy &amp; advertising” route described in section 8. On iOS, Simple Prep requests only non-personalised ads regardless of any broader consent.</p>
         <p>If you consider that the processing of your personal data infringes the GDPR, you may lodge a complaint with a data protection supervisory authority, in particular in the Member State of your habitual residence, place of work or the alleged infringement. You are not restricted to the authority at our place of business. The authority particularly responsible for our place of business is:</p>
@@ -175,7 +182,7 @@ export default function PrivacyPage() {
 
       <section>
         <h2>15. Version and changes</h2>
-        <p>Version of this privacy policy: 12 November 2026.</p>
+        <p>Version of this privacy policy: 19 November 2026.</p>
         <p>We update this privacy policy when Simple Prep’s functions, providers, legal requirements or technical design change. The current version is available at this address.</p>
       </section>
       <p className="document-back"><Link href="/en">← Back to home</Link></p>

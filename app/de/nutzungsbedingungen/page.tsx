@@ -27,7 +27,7 @@ export default function TermsPage() {
           Hömicker Weg 1<br />
           51643 Gummersbach<br />
           Deutschland<br />
-          E-Mail: <a href="mailto:simpleprep.info@gmail.com">simpleprep.info@gmail.com</a><br />
+          E-Mail: <a href="mailto:support@simpleprep.de">support@simpleprep.de</a><br />
           Telefon: <a href="tel:+491601260993">+49 160 1260993</a> (montags 18:00–19:00 Uhr)
         </address>
         <p>Diese Nutzungsbedingungen gelten für die mobile Simple-Prep-App für Android und iOS. Für die Website gelten sie nur, soweit dort ausdrücklich darauf verwiesen wird. Zusätzlich gelten die Nutzungs- und Zahlungsbedingungen des Stores, über den du die App beziehst. Zwingende gesetzliche Verbraucherrechte bleiben unberührt.</p>
@@ -113,7 +113,7 @@ export default function TermsPage() {
       <section>
         <h2>14. Änderungen, Kontakt und Stand</h2>
         <p>Änderungen dieser Bedingungen gelten für die Zukunft. Soweit eine Änderung deine bestehende Vertragsposition wesentlich berührt, informieren wir dich in angemessener Weise und holen eine Zustimmung ein, sofern dies gesetzlich erforderlich ist. Individuelle Abreden und zwingendes Recht gehen vor.</p>
-        <p>Fragen zu diesen Bedingungen kannst du an <a href="mailto:simpleprep.info@gmail.com">simpleprep.info@gmail.com</a> richten. Stand des Arbeitsentwurfs: 19.10.2026.</p>
+        <p>Fragen zu diesen Bedingungen kannst du an <a href="mailto:support@simpleprep.de">support@simpleprep.de</a> richten. Stand des Arbeitsentwurfs: 19.10.2026.</p>
       </section>
       <p className="document-back"><Link href="/">← Zur Startseite</Link></p>
     </DocumentPage>

@@ -19,7 +19,7 @@ export default function PrivacyPage() {
           Hömicker Weg 1<br />
           51643 Gummersbach<br />
           Deutschland<br />
-          E-Mail: <a href="mailto:simpleprep.info@gmail.com">simpleprep.info@gmail.com</a><br />
+          E-Mail: <a href="mailto:support@simpleprep.de">support@simpleprep.de</a><br />
           Telefon: <a href="tel:+491601260993">+49 160 1260993</a>
         </address>
         <p>Ein Datenschutzbeauftragter wurde nicht bestellt. Datenschutzanfragen kannst du direkt an die oben genannte E-Mail-Adresse richten.</p>
@@ -47,10 +47,17 @@ export default function PrivacyPage() {
       <section>
         <h2>4. Kontakt per E-Mail und Telefon</h2>
         <p>Wenn du uns per E-Mail kontaktierst, verarbeiten wir deine E-Mail-Adresse, den Inhalt deiner Nachricht, technische Metadaten der E-Mail und alle freiwillig übermittelten Angaben, um dein Anliegen zu bearbeiten. Je nach Inhalt beruht dies auf Art. 6 Abs. 1 lit. b DSGVO zur Durchführung vorvertraglicher oder vertraglicher Maßnahmen oder auf Art. 6 Abs. 1 lit. f DSGVO. Unser berechtigtes Interesse ist die Bearbeitung von Fragen, Fehlermeldungen und Feedback. Gesetzliche Aufbewahrungspflichten können zusätzlich auf Art. 6 Abs. 1 lit. c DSGVO beruhen.</p>
-        <p>Für die Kontaktadresse verwenden wir derzeit Gmail von Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland. Google verarbeitet dabei Kommunikationsinhalte und technische Metadaten nach seiner eigenen Datenschutzerklärung; es handelt sich nicht um ein Google-Workspace-Postfach. Bitte sende keine sensiblen Vorrats-, Gesundheits-, Zahlungs- oder Kontodaten, wenn sie für dein Anliegen nicht erforderlich sind.</p>
+        <p>Für den Empfang, Versand und die Speicherung der Nachrichten an unsere Supportadresse verwenden wir ein E-Mail-Postfach bei der STRATO GmbH, Otto-Ostrowski-Straße 7, 10249 Berlin, Deutschland. STRATO verarbeitet die dabei anfallenden Kommunikationsinhalte und technischen Metadaten für uns als Auftragsverarbeiter auf Grundlage einer Vereinbarung nach Art. 28 DSGVO.</p>
+        <p>Zum Abrufen und Bearbeiten der Nachrichten verwenden wir außerdem die Gmail-App von Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland. Das Postfach wird weiterhin bei STRATO geführt. Google beschreibt für Gmail zusätzlich die Verarbeitung technischer Leistungs- und Absturzdaten; weitere Informationen enthalten die unten verlinkten Datenschutzhinweise. Bestehende Korrespondenz in unserem bisherigen Gmail-Postfach wird nach den in Abschnitt 12 genannten Kriterien weiter bearbeitet und aufbewahrt.</p>
+        <p>Bitte sende keine sensiblen Vorrats-, Gesundheits-, Zahlungs- oder Kontodaten, wenn sie für dein Anliegen nicht erforderlich sind.</p>
         <p>Soweit wir deine Anfrage zur Ausübung von Datenschutzrechten bearbeiten, beruht die dafür erforderliche Verarbeitung auf Art. 6 Abs. 1 lit. c DSGVO in Verbindung mit unseren Pflichten insbesondere aus Art. 12 bis 22 DSGVO.</p>
         <p>Wenn du uns telefonisch kontaktierst oder eine Mailboxnachricht hinterlässt, verarbeiten wir insbesondere deine Telefonnummer, Zeitpunkt und Dauer des Kontakts sowie die von dir mitgeteilten Angaben. Eine Gesprächsaufzeichnung findet nicht statt. Die Verarbeitung dient der Bearbeitung deines Anliegens und beruht je nach Inhalt auf Art. 6 Abs. 1 lit. b oder lit. f DSGVO. Der eingesetzte Telekommunikationsanbieter kann Verbindungs- und Mailboxdaten in eigener Verantwortung verarbeiten.</p>
-        <p><a href="https://policies.google.com/privacy?hl=de" rel="noreferrer">Datenschutzerklärung von Google</a></p>
+        <ul>
+          <li><a href="https://www.strato.de/datenschutz/" rel="noreferrer">STRATO – Datenschutz</a></li>
+          <li><a href="https://www.strato.de/agb/avv/" rel="noreferrer">STRATO – Vereinbarung zur Auftragsverarbeitung</a></li>
+          <li><a href="https://support.google.com/mail/answer/10434152?hl=de" rel="noreferrer">Google – Datenschutz und Sicherheit in Gmail</a></li>
+          <li><a href="https://policies.google.com/privacy?hl=de" rel="noreferrer">Datenschutzerklärung von Google</a></li>
+        </ul>
       </section>
 
       <section>
@@ -125,7 +132,7 @@ export default function PrivacyPage() {
 
       <section>
         <h2>11. Empfänger und internationale Übermittlungen</h2>
-        <p>Empfänger können – abhängig von der verwendeten Funktion – GitHub als Hostinganbieter, Google als E-Mail-, ML-Kit-, UMP- und Mobile-Ads-Anbieter sowie von dir ausgewählte Share-, Druck- oder Speicheranbieter sein. Die für Werbung beteiligten Anbieter und ihre Zwecke werden zusätzlich im UMP-Einwilligungsdialog angezeigt.</p>
+        <p>Empfänger können – abhängig von der verwendeten Funktion – GitHub als Hostinganbieter, STRATO als Anbieter unseres Supportpostfachs, Google als Anbieter der Gmail-App, für bestehende Gmail-Korrespondenz sowie als ML-Kit-, UMP- und Mobile-Ads-Anbieter sowie von dir ausgewählte Share-, Druck- oder Speicheranbieter sein. Die für Werbung beteiligten Anbieter und ihre Zwecke werden zusätzlich im UMP-Einwilligungsdialog angezeigt.</p>
         <p>Die datenschutzrechtliche Rolle eines Anbieters richtet sich nach dem jeweiligen Dienst und der tatsächlichen Verarbeitung. Informationen zu Googles Werbediensten enthalten die unten verlinkten Datenschutzbedingungen und die zugehörige Diensteliste. Die Verantwortung von Simple Prep für die durch unsere Einbindung ausgelöste Verarbeitung wird durch diese Verweise nicht ausgeschlossen.</p>
         <p>Apple und Google verarbeiten beim Aufruf des jeweiligen App-Stores, beim Download und bei der Verwaltung der App eigene Konto-, Zahlungs-, Geräte- und Nutzungsdaten in eigener Verantwortung. Auf Umfang und Dauer dieser Verarbeitung haben wir keinen unmittelbaren Einfluss.</p>
         <p>Einige Anbieter verarbeiten Daten auch außerhalb des Europäischen Wirtschaftsraums. Nach den Angaben von GitHub und Google werden hierfür je nach Empfänger insbesondere Angemessenheitsbeschlüsse nach Art. 45 DSGVO, einschließlich des EU-US Data Privacy Framework für zertifizierte Unternehmen, oder Standardvertragsklauseln der Europäischen Kommission nach Art. 46 DSGVO eingesetzt. Weitere Informationen zu den für eine konkrete Übermittlung eingesetzten Garantien und eine verfügbare Kopie beziehungsweise Fundstelle kannst du über die in Abschnitt 1 genannte E-Mail-Adresse anfordern.</p>
@@ -155,7 +162,7 @@ export default function PrivacyPage() {
       <section>
         <h2>13. Deine Rechte</h2>
         <p>Unter den gesetzlichen Voraussetzungen hast du Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung und Datenübertragbarkeit. Eine Einwilligung kannst du jederzeit mit Wirkung für die Zukunft widerrufen. Wenn Daten ausschließlich lokal auf deinem Gerät liegen, haben wir keinen technischen Zugriff darauf; du kannst sie unmittelbar in der App verwalten, exportieren oder löschen.</p>
-        <p>Zur Ausübung deiner Rechte genügt eine formlose Nachricht an <a href="mailto:simpleprep.info@gmail.com">simpleprep.info@gmail.com</a>. Wir beantworten Anfragen unverzüglich und grundsätzlich spätestens innerhalb eines Monats nach Eingang. Wenn dies wegen der Komplexität oder Anzahl von Anträgen erforderlich ist, kann die Frist unter den gesetzlichen Voraussetzungen um weitere zwei Monate verlängert werden; darüber informieren wir innerhalb des ersten Monats. Die Bearbeitung ist grundsätzlich kostenlos. Nur wenn begründete Zweifel an deiner Identität bestehen, dürfen wir zusätzliche Informationen anfordern, die zur Bestätigung deiner Identität erforderlich sind.</p>
+        <p>Zur Ausübung deiner Rechte genügt eine formlose Nachricht an <a href="mailto:support@simpleprep.de">support@simpleprep.de</a>. Wir beantworten Anfragen unverzüglich und grundsätzlich spätestens innerhalb eines Monats nach Eingang. Wenn dies wegen der Komplexität oder Anzahl von Anträgen erforderlich ist, kann die Frist unter den gesetzlichen Voraussetzungen um weitere zwei Monate verlängert werden; darüber informieren wir innerhalb des ersten Monats. Die Bearbeitung ist grundsätzlich kostenlos. Nur wenn begründete Zweifel an deiner Identität bestehen, dürfen wir zusätzliche Informationen anfordern, die zur Bestätigung deiner Identität erforderlich sind.</p>
         <p><strong>Widerspruchsrecht:</strong> Soweit eine Verarbeitung auf Art. 6 Abs. 1 lit. f DSGVO beruht, kannst du aus Gründen, die sich aus deiner besonderen Situation ergeben, jederzeit Widerspruch gegen die Verarbeitung einlegen. Wir verarbeiten die betroffenen Daten dann nicht mehr, es sei denn, wir können zwingende schutzwürdige Gründe nachweisen oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen.</p>
         <p><strong>Widerspruch gegen Direktwerbung:</strong> Soweit personenbezogene Daten zum Zweck der Direktwerbung verarbeitet werden, kannst du dieser Verarbeitung einschließlich eines damit verbundenen Profilings jederzeit und ohne Angabe besonderer Gründe widersprechen. Die Daten werden anschließend nicht mehr für diese Zwecke verarbeitet. Für den Widerruf deiner Werbeeinwilligungen nutze den in Abschnitt 8 beschriebenen Weg über „Einstellungen → Datenschutz &amp; Werbung“. Auf iOS fordert Simple Prep unabhängig von einer weitergehenden Zustimmung ausschließlich nicht personalisierte Anzeigen an.</p>
         <p>Wenn du der Ansicht bist, dass die Verarbeitung deiner personenbezogenen Daten gegen die DSGVO verstößt, kannst du dich bei einer Datenschutzaufsichtsbehörde beschweren, insbesondere in dem Mitgliedstaat deines gewöhnlichen Aufenthalts, deines Arbeitsplatzes oder des Orts des vermuteten Verstoßes. Du bist nicht auf die Behörde an unserem Sitz beschränkt. Für unseren Sitz ist insbesondere zuständig:</p>
@@ -175,7 +182,7 @@ export default function PrivacyPage() {
 
       <section>
         <h2>15. Stand und Änderungen</h2>
-        <p>Stand dieser Datenschutzerklärung: 12. November 2026.</p>
+        <p>Stand dieser Datenschutzerklärung: 19. November 2026.</p>
         <p>Wir passen diese Datenschutzerklärung an, wenn sich Funktionen, Anbieter, Rechtslage oder der technische Aufbau von Simple Prep ändern. Die jeweils aktuelle Fassung ist unter dieser Adresse abrufbar.</p>
       </section>
       <p className="document-back"><Link href="/">← Zur Startseite</Link></p>

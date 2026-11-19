@@ -24,7 +24,7 @@ export default function LegalNoticePage() {
       </section>
       <section>
         <h2>Contact</h2>
-        <p>Email: <a href="mailto:simpleprep.info@gmail.com">simpleprep.info@gmail.com</a></p>
+        <p>Email: <a href="mailto:support@simpleprep.de">support@simpleprep.de</a></p>
         <p>Telephone: <a href="tel:+491601260993">+49 160 1260993</a></p>
         <p>Telephone availability: Mondays from 18:00 to 19:00 German local time. Outside these hours, you may leave a message and we will return your call promptly.</p>
       </section>

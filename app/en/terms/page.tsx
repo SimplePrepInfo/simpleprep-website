@@ -27,7 +27,7 @@ export default function TermsPage() {
           Hömicker Weg 1<br />
           51643 Gummersbach<br />
           Germany<br />
-          Email: <a href="mailto:simpleprep.info@gmail.com">simpleprep.info@gmail.com</a><br />
+          Email: <a href="mailto:support@simpleprep.de">support@simpleprep.de</a><br />
           Telephone: <a href="tel:+491601260993">+49 160 1260993</a> (Mondays 18:00–19:00 German local time)
         </address>
         <p>These terms apply to the Simple Prep mobile app for Android and iOS. They apply to the website only where the website expressly refers to them. The usage and payment terms of the store through which you obtain the app also apply. Mandatory statutory consumer rights remain unaffected.</p>
@@ -113,7 +113,7 @@ export default function TermsPage() {
       <section>
         <h2>14. Changes, contact and version</h2>
         <p>Changes to these terms apply prospectively. If a change materially affects your existing contractual position, we will provide appropriate notice and obtain consent where required by law. Individual agreements and mandatory law take precedence.</p>
-        <p>Questions about these terms can be sent to <a href="mailto:simpleprep.info@gmail.com">simpleprep.info@gmail.com</a>. Working draft dated 19 October 2026.</p>
+        <p>Questions about these terms can be sent to <a href="mailto:support@simpleprep.de">support@simpleprep.de</a>. Working draft dated 19 October 2026.</p>
       </section>
       <p className="document-back"><Link href="/en">← Back to home</Link></p>
     </DocumentPage>
