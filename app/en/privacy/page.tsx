@@ -132,6 +132,7 @@ export default function PrivacyPage() {
 
       <section>
         <h2>11. Recipients and international transfers</h2>
+        <p>The third-party providers we integrate to provide the app features described here provide the same or an equivalent level of protection for app user data as described in this privacy policy and required by the App Store privacy guidelines. This also applies to their affiliates and subcontractors where they have access to app user data.</p>
         <p>Depending on the feature used, recipients may include GitHub as hosting provider, STRATO as provider of our support mailbox, Google as provider of the Gmail app, for existing Gmail correspondence, and as provider of ML Kit, UMP and Mobile Ads, and share, print or storage providers selected by you. The advertising providers involved and their purposes are additionally displayed in the UMP consent form.</p>
         <p>A provider’s data protection role depends on the particular service and actual processing activity. Information about Google’s advertising services is available in the data protection terms and associated service list linked below. These references do not exclude Simple Prep’s responsibility for processing triggered by our integration.</p>
         <p>Apple and Google process their own account, payment, device and usage data under their own responsibility when you access the relevant app store, download the app or manage it. We have no direct control over the scope or duration of that processing.</p>
@@ -182,7 +183,7 @@ export default function PrivacyPage() {
 
       <section>
         <h2>15. Version and changes</h2>
-        <p>Version of this privacy policy: 19 November 2026.</p>
+        <p>Version of this privacy policy: 20 November 2026.</p>
         <p>We update this privacy policy when Simple Prep’s functions, providers, legal requirements or technical design change. The current version is available at this address.</p>
       </section>
       <p className="document-back"><Link href="/en">← Back to home</Link></p>

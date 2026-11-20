@@ -1,5 +1,7 @@
 # Simple Prep Website
 
+**Freigegebene Datenschutzergänzung vom 20. November 2026:** Abschnitt 11 der DE-/EN-Datenschutzerklärung enthält die ausdrückliche Bestätigung gleichen oder gleichwertigen Schutzes durch eingebundene App-Drittanbieter einschließlich verbundener Unternehmen/Unterauftragnehmer. Versionsdatum 20.11.; statischer Export erfolgreich und beide Absätze/15 Abschnitte geprüft. Der Betreiber hat die vollständig gezeigten Fassungen und ihre Veröffentlichung auf simpleprep.de einschließlich Speicherung im öffentlichen Website-Repository ausdrücklich freigegeben. Der Deployment- und öffentliche Rückprüfnachweis wird im Simple-Prep-App-Projekt geführt; eine Apple-Einreichung ist damit nicht umfasst.
+
 Öffentlich bereitgestellte zweisprachige Vorabwebsite für `simpleprep.de`.
 
 ## Enthalten

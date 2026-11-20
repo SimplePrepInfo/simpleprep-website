@@ -132,6 +132,7 @@ export default function PrivacyPage() {
 
       <section>
         <h2>11. Empfänger und internationale Übermittlungen</h2>
+        <p>Die von uns zur Bereitstellung der hier beschriebenen App-Funktionen eingebundenen Drittanbieter gewährleisten denselben oder einen gleichwertigen Schutz der App-Nutzerdaten, wie er in dieser Datenschutzerklärung beschrieben und durch die Datenschutzvorgaben des App Stores verlangt wird. Dies gilt auch für ihre verbundenen Unternehmen und Unterauftragnehmer, soweit diese Zugriff auf App-Nutzerdaten erhalten.</p>
         <p>Empfänger können – abhängig von der verwendeten Funktion – GitHub als Hostinganbieter, STRATO als Anbieter unseres Supportpostfachs, Google als Anbieter der Gmail-App, für bestehende Gmail-Korrespondenz sowie als ML-Kit-, UMP- und Mobile-Ads-Anbieter sowie von dir ausgewählte Share-, Druck- oder Speicheranbieter sein. Die für Werbung beteiligten Anbieter und ihre Zwecke werden zusätzlich im UMP-Einwilligungsdialog angezeigt.</p>
         <p>Die datenschutzrechtliche Rolle eines Anbieters richtet sich nach dem jeweiligen Dienst und der tatsächlichen Verarbeitung. Informationen zu Googles Werbediensten enthalten die unten verlinkten Datenschutzbedingungen und die zugehörige Diensteliste. Die Verantwortung von Simple Prep für die durch unsere Einbindung ausgelöste Verarbeitung wird durch diese Verweise nicht ausgeschlossen.</p>
         <p>Apple und Google verarbeiten beim Aufruf des jeweiligen App-Stores, beim Download und bei der Verwaltung der App eigene Konto-, Zahlungs-, Geräte- und Nutzungsdaten in eigener Verantwortung. Auf Umfang und Dauer dieser Verarbeitung haben wir keinen unmittelbaren Einfluss.</p>
@@ -182,7 +183,7 @@ export default function PrivacyPage() {
 
       <section>
         <h2>15. Stand und Änderungen</h2>
-        <p>Stand dieser Datenschutzerklärung: 19. November 2026.</p>
+        <p>Stand dieser Datenschutzerklärung: 20. November 2026.</p>
         <p>Wir passen diese Datenschutzerklärung an, wenn sich Funktionen, Anbieter, Rechtslage oder der technische Aufbau von Simple Prep ändern. Die jeweils aktuelle Fassung ist unter dieser Adresse abrufbar.</p>
       </section>
       <p className="document-back"><Link href="/">← Zur Startseite</Link></p>
